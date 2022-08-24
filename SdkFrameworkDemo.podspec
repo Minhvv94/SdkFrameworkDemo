@@ -13,6 +13,6 @@ Pod::Spec.new do |spec|
   spec.frameworks   = 'UIKit'
   spec.source_files = 'SdkFrameworkDemo.xcframework/ios-arm64/SdkFrameworkDemo.framework/Headers/*.h'
   spec.vendored_frameworks = 'SdkFrameworkDemo.framework'
-  Spec. swift_versions = '5.0'
+  Spec.swift_versions = '5.0'
   spec.swift_version = '5.0'
 end
