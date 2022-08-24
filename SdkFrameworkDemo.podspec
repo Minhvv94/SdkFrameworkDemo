@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, '13.0'
   spec.summary      = 'SDK Login iOS and OS X.'
   spec.requires_arc = true
-  spec.version      = '1.0'
+  spec.version      = '1.0.0'
   spec.module_name  = 'SdkFrameworkDemo'
   spec.license      = {:type =>'MIT',:file => 'LICENSE'}
   spec.authors      = { 'Minhvv' => 'minhvv@vtvlive.vn' }
