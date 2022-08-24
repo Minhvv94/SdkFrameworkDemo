@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.license      = {:type =>'MIT',:file => 'LICENSE'}
   spec.authors      = { 'Minhvv' => 'minhvv@vtvlive.vn' }
   spec.homepage     = 'https://www.facebook.com/minh.vuvan0702'
-  spec.source       = { :git => 'https://github.com/Minhvv94/SdkFrameworkDemo.git', :tag => '1.0.0' }
+  spec.source       = { :git => 'https://github.com/Minhvv94/SdkFrameworkDemo.git', :tag => 'v1.0' }
   spec.frameworks   = 'UIKit'
   spec.source_files = 'SdkFrameworkDemo.xcframework/ios-arm64/SdkFrameworkDemo.framework/Headers/*.h'
   spec.vendored_frameworks = 'SdkFrameworkDemo.xcframework/ios-arm64/SdkFrameworkDemo.framework'
