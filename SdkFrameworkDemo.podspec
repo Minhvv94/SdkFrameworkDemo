@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.xcconfig     = :VALID_ARCHS, 'armv7 arm64 x86_64'
   spec.version      = 'v1.0'
   spec.module_name  = 'SdkFrameworkDemo'
-  spec.license      = {'type': 'MIT','file": 'LICENSE'}
+  spec.license      = {:type =>'MIT',:file => 'LICENSE'}
   spec.authors      = { 'Minhvv' => 'minhvv@vtvlive.vn' }
   spec.homepage     = 'https://www.facebook.com/minh.vuvan0702'
   spec.source       = { :git => 'https://github.com/Minhvv94/SdkFrameworkDemo.git', :tag => '1.0.0' }
